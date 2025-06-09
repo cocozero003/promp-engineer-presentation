@@ -19,4 +19,4 @@ Feel free to contribute or adapt for your learning or teaching needs.
 
 ---
 
-MIT License.
+Jukkapan Wirunrat
